@@ -18,4 +18,12 @@ public class AutowiringApplication {
 		
 	}
 
+	
+	
+	
+	//Second Task
+	public String After()
+	{
+		return "Evening";
+	}
 }
