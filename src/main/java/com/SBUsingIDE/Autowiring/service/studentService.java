@@ -42,4 +42,10 @@ public class studentService {
 		return stu1;
 		
 	}
+	
+	//This is QA Code
+	public void QAcode()
+	{
+		System.out.println("This is the code of QA Team");
+	}
 }
