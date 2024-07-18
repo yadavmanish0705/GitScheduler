@@ -42,4 +42,10 @@ public class studentService {
 		return stu1;
 		
 	}
+	
+	
+	public void DeveloperCode()
+	{
+		System.out.println("This is the developer code");
+	}
 }
