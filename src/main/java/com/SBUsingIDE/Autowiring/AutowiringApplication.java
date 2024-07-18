@@ -13,9 +13,11 @@ public class AutowiringApplication {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context = SpringApplication.run(AutowiringApplication.class, args);
 		
-		
-		
-		
+	}
+	//First Task
+	public String demo()
+	{
+		return "welcome";
 	}
 
 	
