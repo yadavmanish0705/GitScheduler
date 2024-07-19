@@ -48,4 +48,10 @@ public class studentService {
 	{
 		System.out.println("This is the code of QA Team");
 	}
+	//This is Tester Code
+		public void TesterCode()
+		{
+			System.out.println("This is the code of QA Team");
+		}
+	
 }
