@@ -43,9 +43,16 @@ public class studentService {
 		
 	}
 	
+
+	//This is QA Code
+	public void QAcode()
+	{
+		System.out.println("This is the code of QA Team");
+
 	
 	public void DeveloperCode()
 	{
 		System.out.println("This is the developer code");
+
 	}
 }
