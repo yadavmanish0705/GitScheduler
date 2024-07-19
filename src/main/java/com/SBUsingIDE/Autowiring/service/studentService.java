@@ -55,10 +55,30 @@ public class studentService {
 		System.out.println("This is the developer code");
 
 	}
+
 	//This is Tester Code
 		public void TesterCode()
 		{
 			System.out.println("This is the code of QA Team");
 		}
 	
+
+
+
+
+
+
+
+
+public void DeveloperCode1()
+{
+	System.out.println("This is the developer code");
+
 }
+
+
+}
+
+
+
+
